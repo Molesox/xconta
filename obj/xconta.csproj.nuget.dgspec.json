@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniel/Projects/xconta/xconta.csproj": {}
+    "/Users/daniel/Projects/xconta/xconta/xconta.csproj": {}
   },
   "projects": {
-    "/Users/daniel/Projects/xconta/xconta.csproj": {
+    "/Users/daniel/Projects/xconta/xconta/xconta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniel/Projects/xconta/xconta.csproj",
+        "projectUniqueName": "/Users/daniel/Projects/xconta/xconta/xconta.csproj",
         "projectName": "xconta",
-        "projectPath": "/Users/daniel/Projects/xconta/xconta.csproj",
+        "projectPath": "/Users/daniel/Projects/xconta/xconta/xconta.csproj",
         "packagesPath": "/Users/daniel/.nuget/packages/",
-        "outputPath": "/Users/daniel/Projects/xconta/obj/",
+        "outputPath": "/Users/daniel/Projects/xconta/xconta/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daniel/.nuget/NuGet/NuGet.Config"
